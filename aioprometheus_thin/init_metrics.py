@@ -1,4 +1,4 @@
-from configs import MetricsTypes
+from aioprometheus_thin.configs import MetricsTypes
 
 
 class Metric:
