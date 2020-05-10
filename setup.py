@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="aioprometheus-thin",  # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Raz Co.",
     author_email="razchn@gmail.com",
     description="Python asyncIO Prometheus package - using aioprometheus, but simpler !",
